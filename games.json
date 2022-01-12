@@ -623,13 +623,29 @@
             "rating": 4,
             "game_url": "https://play.famobi.com/perfect-piano"
           },
-		  {
+	  {
             "category_name": "Ad-Free Games",
             "category_id": 10,
             "name": "Archer Hero",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/1/icons/icon-256.png",
             "rating": 4,
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/1/"
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Dribble Kings",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/2/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/2/"
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Moto Beach Ride",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/3/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/3/"
           }
         ]
       }
