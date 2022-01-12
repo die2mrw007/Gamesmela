@@ -982,7 +982,39 @@
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/46/share.jpg",
             "rating": 4,
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/46/"
-          }
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Duck Shooter",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/47/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/47/"
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Fantasy Forest",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/48/icons/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/48/"
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Fishing Frenzy",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/49/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/49/"
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Flip Card Memory Test",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/50/img/logo.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/50/"
+          },
         ]
       }
     ]
