@@ -48,6 +48,11 @@
             "id": 9,
             "name": "Arcade",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BusParking3dTeaser.jpg?v=0.2-fa61e954"
+          },
+		  {
+            "id": 10,
+            "name": "Ad-Free Games",
+            "thumbnail": "https://huda.jpmaurya.com/games/adfreegames.jpg"
           }
         ],
         "games": [
@@ -617,6 +622,14 @@
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PerfectPiano_Teaser.jpg?v=0.2-fa61e954",
             "rating": 4,
             "game_url": "https://play.famobi.com/perfect-piano"
+          },
+		  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Archer_Hero",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/1/icons/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/1/"
           }
         ]
       }
