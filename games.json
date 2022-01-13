@@ -1094,6 +1094,94 @@
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/60/sprites/200x200.jpg",
             "rating": 4,
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/60/"
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Ramses Treasure",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/61/sprites/bg_menu.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/61/"
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Super Green",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/62/images/bg_lv01-sheet0.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/62/"
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Tricky Cab",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/63/res/png/UI/mainmenu/treasure_chest.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/63/"
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Jacks or Better",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/64/sprites/200x200.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/64/"
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Oh H1",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/65/img/icon-180.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/65/"
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "2048",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/66/meta/apple-touch-icon.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/66/"
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Astray",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/67/ball.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/67/"
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Clumsy Bird",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/68/data/img/touch-icon-iphone-retina.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/68/"
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Hextris",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/69/images/twitter-opengraph.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/69/"
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Racer v2",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/70/images/sprites/car03.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/70/"
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Pacman",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/71/img/Icon-200x200.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/71/"
           }
         ]
       }
