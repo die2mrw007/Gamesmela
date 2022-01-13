@@ -1170,14 +1170,6 @@
 	  {
             "category_name": "Ad-Free Games",
             "category_id": 10,
-            "name": "Racer v2",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/70/images/sprites/car03.png",
-            "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/70/"
-          },
-	  {
-            "category_name": "Ad-Free Games",
-            "category_id": 10,
             "name": "Pacman",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/71/img/Icon-200x200.png",
             "rating": 4,
