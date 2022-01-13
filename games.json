@@ -1182,7 +1182,23 @@
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/71/img/Icon-200x200.png",
             "rating": 4,
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/71/"
-          }
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Domino Block",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/domino-block/sprites/200x200.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/domino-block/"
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Snake Attack",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/snake-attack/sprites/200x200.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/snake-attack/"
+          }	
         ]
       }
     ]
