@@ -1206,6 +1206,22 @@
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/katana/sprites/200x200.jpg",
             "rating": 4,
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/katana/"
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Tetris",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/tetris/tetris.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/tetris/"
+          },
+	  {
+            "category_name": "Ad-Free Games",
+            "category_id": 10,
+            "name": "Tic-Tac-Toe",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/tic-tac-toe/tic-tac-toe.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/tic-tac-toe/dist/"
           }
         ]
       }
