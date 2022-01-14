@@ -1190,6 +1190,14 @@
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/katana/sprites/200x200.jpg",
             "rating": 4,
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/katana/"
+          },
+	  {
+            "category_name": "Puzzle",
+            "category_id": 5,
+            "name": "Box Tower",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/Box-Tower/sprites/200x200.jpg",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/Box-Tower/"
           }
         ]
       }
