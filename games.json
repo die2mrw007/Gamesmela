@@ -31,7 +31,7 @@
           },
           {
             "id": 6,
-            "name": "Quiz/Brain Games",
+            "name": "Quiz & Brain Games",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AlienQuestTeaser.jpg?v=0.2-fa61e954"
           },
           {
@@ -41,7 +41,7 @@
           },
           {
             "id": 8,
-            "name": "Cards/Casino",
+            "name": "Cards & Casino",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/Crossover21Teaser.jpg?v=0.2-fa61e954"
           },
           {
@@ -473,7 +473,7 @@
             "game_url": "https://play.famobi.com/giant-2048"
           },
           {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Brain Trainer",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BrainTrainerTeaser.jpg?v=0.2-fa61e954",
@@ -497,7 +497,7 @@
             "game_url": "https://play.famobi.com/mahjong-3d"
           },
           {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "7 Words",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/7WordsTeaser.jpg?v=0.2-fa61e954",
@@ -505,7 +505,7 @@
             "game_url": "https://play.famobi.com/7-words"
           },
           {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Alien Quest",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AlienQuestTeaser.jpg?v=0.2-fa61e954",
@@ -513,7 +513,7 @@
             "game_url": "https://play.famobi.com/alien-quest"
           },
           {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Sweet Hungman",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SweetHangmanTeaser.jpg?v=0.2-fa61e954",
@@ -521,7 +521,7 @@
             "game_url": "https://play.famobi.com/sweet-hangman"
           },
           {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Geo Quiz EU",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/GeoQuizEuropeTeaser.jpg?v=0.2-fa61e954",
@@ -529,7 +529,7 @@
             "game_url": "https://play.famobi.com/geo-quiz-europe"
           },
           {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Animal Quiz",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AnimalQuizChristmasTeaser.jpg?v=0.2-fa61e954",
@@ -581,7 +581,7 @@
             "game_url": "https://play.famobi.com/greedy-rabbit"
           },
           {
-            "category_name": "Cards/Casino",
+            "category_name": "Cards & Casino",
             "category_id": 8,
             "name": "Cross Over 21",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/Crossover21Teaser.jpg?v=0.2-fa61e954",
@@ -589,7 +589,7 @@
             "game_url": "https://play.famobi.com/crossover-21"
           },
           {
-            "category_name": "Cards/Casino",
+            "category_name": "Cards & Casino",
             "category_id": 8,
             "name": "Pirate Cards",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PirateCardsTeaser.jpg?v=0.2-fa61e954",
@@ -733,7 +733,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/13/"
           },
 	  {
-            "category_name": "Cards/Casino",
+            "category_name": "Cards & Casino",
             "category_id": 8,
             "name": "Destiny of Warriors",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/14/icons/icon-256.png",
@@ -741,7 +741,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/14/"
           },
 	  {
-            "category_name": "Cards/Casino",
+            "category_name": "Cards & Casino",
             "category_id": 8,
             "name": "Dice game",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/15/32.jpg",
@@ -749,7 +749,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/15/"
           },
 	  {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Flight Sim",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/16/20.jpg",
@@ -757,7 +757,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/16/"
           },
 	  {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Frogtastic",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/17/29.jpg",
@@ -773,7 +773,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/18/"
           },
 	  {
-            "category_name": "Cards/Casino",
+            "category_name": "Cards & Casino",
             "category_id": 8,
             "name": "Lottery Numbers",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/19/5.jpg",
@@ -781,7 +781,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/19/"
           },
 	  {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Open Restaurant",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/20/2.jpg",
@@ -789,7 +789,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/20/"
           },
 	  {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Quiz Game 2",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/21/4.jpg",
@@ -797,7 +797,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/21/"
           },
 	  {
-            "category_name": "Cards/Casino",
+            "category_name": "Cards & Casino",
             "category_id": 8,
             "name": "Spin the Wheel",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/22/images/roulette-sheet0.png",
@@ -805,7 +805,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/22/"
           },
 	  {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Tap Supermarket",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/23/10.jpg",
@@ -813,7 +813,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/23/"
           },
 	  {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "The Sorcerer",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/24/40.jpg",
@@ -821,7 +821,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/24/"
           },
 	  {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "TRZ Pop it",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/25/icons/icon-256.png",
@@ -829,7 +829,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/25/"
           },
 	  {
-            "category_name": "Cards/Casino",
+            "category_name": "Cards & Casino",
             "category_id": 8,
             "name": "Roulette 3D",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/26/sprites/bg_menu.jpg",
@@ -861,7 +861,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/29/"
           },
 	  {
-            "category_name": "Cards/Casino",
+            "category_name": "Cards & Casino",
             "category_id": 8,
             "name": "Bingo",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/30/6.jpg",
@@ -917,7 +917,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/36/"
           },
 	  {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Coloring Book",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/37/SAM/coloringbook_texture_1.png",
@@ -925,7 +925,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/37/"
           },
 	  {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 10,
             "name": "Crazy Parking",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/38/30.jpg",
@@ -957,7 +957,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/41/"
           },
 	  {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Electro",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/42/icon-256.png",
@@ -989,7 +989,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/45/"
           },
 	  {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Spot the Differences",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/46/9.jpg",
@@ -1005,7 +1005,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/47/"
           },
 	  {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Fantasy Forest",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/48/icons/icon-256.png",
@@ -1021,7 +1021,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/49/"
           },
 	  {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Flip Card Memory Test",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/50/8.jpg",
@@ -1029,7 +1029,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/50/"
           },
 	  {
-            "category_name": "Cards/Casino",
+            "category_name": "Cards & Casino",
             "category_id": 8,
             "name": "4 Colors",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/51/sprites/200x200.jpg",
@@ -1093,7 +1093,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/59/"
           },
 	  {
-            "category_name": "Cards/Casino",
+            "category_name": "Cards & Casino",
             "category_id": 8,
             "name": "The Fruits Slot Machine",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/60/sprites/200x200.jpg",
@@ -1101,7 +1101,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/60/"
           },
 	  {
-            "category_name": "Cards/Casino",
+            "category_name": "Cards & Casino",
             "category_id": 8,
             "name": "Ramses Treasure",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/61/31.jpg",
@@ -1117,7 +1117,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/63/"
           },
 	  {
-            "category_name": "Cards/Casino",
+            "category_name": "Cards & Casino",
             "category_id": 8,
             "name": "Jacks or Better",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/64/sprites/200x200.jpg",
@@ -1125,7 +1125,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/64/"
           },
 	  {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Oh Hi",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/65/23.jpg",
@@ -1133,7 +1133,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/65/"
           },
 	  {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "2048",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/66/meta/apple-touch-icon.png",
@@ -1149,7 +1149,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/68/"
           },
 	  {
-            "category_name": "Quiz/Brain Games",
+            "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Hextris",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/69/26.jpg",
@@ -1165,7 +1165,7 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/71/"
           },
 	  {
-            "category_name": "Cards/Casino",
+            "category_name": "Cards & Casino",
             "category_id": 8,
             "name": "Domino Block",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/domino-block/sprites/200x200.jpg",
