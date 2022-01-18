@@ -31,7 +31,7 @@
           },
           {
             "id": 6,
-            "name": "Quiz",
+            "name": "Quiz/Brain Games",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AlienQuestTeaser.jpg?v=0.2-fa61e954"
           },
           {
@@ -41,7 +41,7 @@
           },
           {
             "id": 8,
-            "name": "Cards",
+            "name": "Cards/Casino",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/Crossover21Teaser.jpg?v=0.2-fa61e954"
           },
           {
@@ -49,10 +49,15 @@
             "name": "Arcade",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BusParking3dTeaser.jpg?v=0.2-fa61e954"
           },
-		  {
+	  {
             "id": 10,
-            "name": "Ad-Free Games",
-            "thumbnail": "https://huda.jpmaurya.com/games/adfreegames.jpg"
+            "name": "Shooting",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/31/icon-256.png"
+          },
+	  {
+            "id": 11,
+            "name": "Sports",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/27/icone.jpg"
           }
         ],
         "games": [
@@ -484,7 +489,7 @@
             "game_url": "https://play.famobi.com/mahjong-3d"
           },
           {
-            "category_name": "Quiz",
+            "category_name": "Quiz/Brain Games",
             "category_id": 6,
             "name": "7 Words",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/7WordsTeaser.jpg?v=0.2-fa61e954",
@@ -492,7 +497,7 @@
             "game_url": "https://play.famobi.com/7-words"
           },
           {
-            "category_name": "Quiz",
+            "category_name": "Quiz/Brain Games",
             "category_id": 6,
             "name": "Alien Quest",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AlienQuestTeaser.jpg?v=0.2-fa61e954",
@@ -500,7 +505,7 @@
             "game_url": "https://play.famobi.com/alien-quest"
           },
           {
-            "category_name": "Quiz",
+            "category_name": "Quiz/Brain Games",
             "category_id": 6,
             "name": "Sweet Hungman",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SweetHangmanTeaser.jpg?v=0.2-fa61e954",
@@ -508,7 +513,7 @@
             "game_url": "https://play.famobi.com/sweet-hangman"
           },
           {
-            "category_name": "Quiz",
+            "category_name": "Quiz/Brain Games",
             "category_id": 6,
             "name": "Geo Quiz EU",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/GeoQuizEuropeTeaser.jpg?v=0.2-fa61e954",
@@ -516,7 +521,7 @@
             "game_url": "https://play.famobi.com/geo-quiz-europe"
           },
           {
-            "category_name": "Quiz",
+            "category_name": "Quiz/Brain Games",
             "category_id": 6,
             "name": "Animal Quiz",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AnimalQuizChristmasTeaser.jpg?v=0.2-fa61e954",
@@ -568,7 +573,7 @@
             "game_url": "https://play.famobi.com/greedy-rabbit"
           },
           {
-            "category_name": "Cards",
+            "category_name": "Cards/Casino",
             "category_id": 8,
             "name": "Cross Over 21",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/Crossover21Teaser.jpg?v=0.2-fa61e954",
@@ -576,7 +581,7 @@
             "game_url": "https://play.famobi.com/crossover-21"
           },
           {
-            "category_name": "Cards",
+            "category_name": "Cards/Casino",
             "category_id": 8,
             "name": "Pirate Cards",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PirateCardsTeaser.jpg?v=0.2-fa61e954",
