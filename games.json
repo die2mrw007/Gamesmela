@@ -22,7 +22,7 @@
           {
             "id": 4,
             "name": "Multi Player",
-            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DeflyTeaser.jpg?v=0.2-fa61e954"
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/55/icon-256.png"
           },
           {
             "id": 5,
@@ -447,6 +447,14 @@
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DeflyTeaser.jpg?v=0.2-fa61e954",
             "rating": 4,
             "game_url": "https://play.famobi.com/defly"
+          },
+	  {
+            "category_name": "Multi Player",
+            "category_id": 4,
+            "name": "Ludo Multiplayer",
+            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/55/icon-256.png",
+            "rating": 4,
+            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/55/"
           },
           {
             "category_name": "Puzzle",
