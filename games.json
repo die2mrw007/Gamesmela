@@ -40,11 +40,6 @@
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JungleRunTeaser.jpg?v=0.2-fa61e954"
           },
           {
-            "id": 8,
-            "name": "Cards & Casino",
-            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/Crossover21Teaser.jpg?v=0.2-fa61e954"
-          },
-          {
             "id": 9,
             "name": "Arcade",
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/43/icon-256.png"
@@ -580,22 +575,7 @@
             "rating": 4,
             "game_url": "https://play.famobi.com/greedy-rabbit"
           },
-          {
-            "category_name": "Cards & Casino",
-            "category_id": 8,
-            "name": "Cross Over 21",
-            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/Crossover21Teaser.jpg?v=0.2-fa61e954",
-            "rating": 4,
-            "game_url": "https://play.famobi.com/crossover-21"
-          },
-          {
-            "category_name": "Cards & Casino",
-            "category_id": 8,
-            "name": "Pirate Cards",
-            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PirateCardsTeaser.jpg?v=0.2-fa61e954",
-            "rating": 4,
-            "game_url": "https://play.famobi.com/pirate-cards"
-          },
+          
           {
             "category_name": "Arcade",
             "category_id": 9,
@@ -733,22 +713,6 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/13/"
           },
 	  {
-            "category_name": "Cards & Casino",
-            "category_id": 8,
-            "name": "Destiny of Warriors",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/14/icons/icon-256.png",
-            "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/14/"
-          },
-	  {
-            "category_name": "Cards & Casino",
-            "category_id": 8,
-            "name": "Dice game",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/15/32.jpg",
-            "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/15/"
-          },
-	  {
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Flight Sim",
@@ -773,14 +737,6 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/18/"
           },
 	  {
-            "category_name": "Cards & Casino",
-            "category_id": 8,
-            "name": "Lottery Numbers",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/19/5.jpg",
-            "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/19/"
-          },
-	  {
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
             "name": "Open Restaurant",
@@ -795,14 +751,6 @@
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/21/4.jpg",
             "rating": 4,
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/21/"
-          },
-	  {
-            "category_name": "Cards & Casino",
-            "category_id": 8,
-            "name": "Spin the Wheel",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/22/images/roulette-sheet0.png",
-            "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/22/"
           },
 	  {
             "category_name": "Quiz & Brain Games",
@@ -828,14 +776,7 @@
             "rating": 4,
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/25/"
           },
-	  {
-            "category_name": "Cards & Casino",
-            "category_id": 8,
-            "name": "Roulette 3D",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/26/sprites/bg_menu.jpg",
-            "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/26/"
-          },
+
 	  {
             "category_name": "Sports",
             "category_id": 11,
@@ -860,14 +801,7 @@
             "rating": 4,
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/29/"
           },
-	  {
-            "category_name": "Cards & Casino",
-            "category_id": 8,
-            "name": "Bingo",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/30/6.jpg",
-            "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/30/"
-          },
+
 	  {
             "category_name": "Shooting",
             "category_id": 10,
@@ -1029,14 +963,6 @@
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/50/"
           },
 	  {
-            "category_name": "Cards & Casino",
-            "category_id": 8,
-            "name": "4 Colors",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/51/sprites/200x200.jpg",
-            "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/51/"
-          },
-	  {
             "category_name": "Shooting",
             "category_id": 10,
             "name": "Hold Position",
@@ -1092,22 +1018,7 @@
             "rating": 4,
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/59/"
           },
-	  {
-            "category_name": "Cards & Casino",
-            "category_id": 8,
-            "name": "The Fruits Slot Machine",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/60/sprites/200x200.jpg",
-            "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/60/"
-          },
-	  {
-            "category_name": "Cards & Casino",
-            "category_id": 8,
-            "name": "Ramses Treasure",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/61/31.jpg",
-            "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/61/"
-          },
+
 	  {
             "category_name": "Jump & Run",
             "category_id": 7,
@@ -1116,14 +1027,7 @@
             "rating": 4,
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/63/"
           },
-	  {
-            "category_name": "Cards & Casino",
-            "category_id": 8,
-            "name": "Jacks or Better",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/64/sprites/200x200.jpg",
-            "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/64/"
-          },
+
 	  {
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
@@ -1163,14 +1067,6 @@
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/71/img/Icon-200x200.png",
             "rating": 4,
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/71/"
-          },
-	  {
-            "category_name": "Cards & Casino",
-            "category_id": 8,
-            "name": "Domino Block",
-            "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/domino-block/sprites/200x200.jpg",
-            "rating": 4,
-            "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/domino-block/"
           },
 	  {
             "category_name": "Arcade",
