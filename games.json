@@ -451,6 +451,22 @@
             "rating": 4,
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/55/"
           },
+	  {
+            "category_name": "Multi Player",
+            "category_id": 4,
+            "name": "Ludo Legend",
+            "thumbnail": "https://i.pinimg.com/474x/34/0b/1d/340b1d46104470b261f5afc6f62319db.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/ludolegend/gameCode/index.html"
+          },
+	  {
+            "category_name": "Multi Player",
+            "category_id": 4,
+            "name": "Classic Chess",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ChessClassicTeaser.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/@famobi_api2/chessclassic4/gameCode/index.html"
+          },
           {
             "category_name": "Puzzle",
             "category_id": 5,
@@ -490,6 +506,14 @@
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/Mahjong3dTeaser.jpg?v=0.2-fa61e954",
             "rating": 4,
             "game_url": "https://play.famobi.com/mahjong-3d"
+          },
+	  {
+            "category_name": "Puzzle",
+            "category_id": 5,
+            "name": "Mahjong Classic",
+            "thumbnail": "https://www.htmlgames.com/uploaded/thumb/mahjongclassic300200.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/@famobi_api2/mahjongclassic1/gameCode/index.html"
           },
           {
             "category_name": "Quiz & Brain Games",
