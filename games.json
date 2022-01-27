@@ -302,7 +302,7 @@
             "name": "Candy Bubble",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CandyBubble_Teaser.jpg?v=0.2-fa61e954",
             "rating": 4,
-            "game_url": "https://play.famobi.com/candy-bubble"
+            "game_url": "https://cdn.gamesnacks.com/@famobi_api2/candybubbles1/gameCode/index.html"
           },
 
           {
@@ -392,7 +392,7 @@
             "name": "Smarty Bubbles",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SmartyBubbles20160620Teaser.jpg?v=0.2-fa61e954",
             "rating": 4,
-            "game_url": "https://play.famobi.com/smarty-bubbles"
+            "game_url": "https://cdn.gamesnacks.com/@famobi_api2/smartybubbles1/gameCode/index.html"
           },
           {
             "category_name": "Girls",
@@ -465,7 +465,7 @@
             "name": "Giant 2048",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/Giant2048Teaser.jpg?v=0.2-fa61e954",
             "rating": 4,
-            "game_url": "https://play.famobi.com/giant-2048"
+            "game_url": "https://cdn.gamesnacks.com/2048giant2/gameCode/index.html"
           },
           {
             "category_name": "Quiz & Brain Games",
@@ -582,7 +582,7 @@
             "name": "OM NOM RUN",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/OmNomRunTeaser.jpg?v=0.2-fa61e954",
             "rating": 4,
-            "game_url": "https://play.famobi.com/om-nom-run"
+            "game_url": "https://cdn.gamesnacks.com/omnomrun1/gameCode/index.html"
           },
           {
             "category_name": "Arcade",
@@ -598,7 +598,7 @@
             "name": "Cannon Balls 3D",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CannonBalls3dTeaser.jpg?v=0.2-fa61e954",
             "rating": 4,
-            "game_url": "https://play.famobi.com/cannon-balls-3d"
+            "game_url": "https://cdn.gamesnacks.com/@famobi_api2/cannonballs3d4/gameCode/index.html"
           },
           {
             "category_name": "Arcade",
