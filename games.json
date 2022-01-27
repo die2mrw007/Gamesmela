@@ -467,6 +467,22 @@
             "rating": 4,
             "game_url": "https://cdn.gamesnacks.com/@famobi_api2/chessclassic4/gameCode/index.html"
           },
+	  {
+            "category_name": "Multi Player",
+            "category_id": 4,
+            "name": "Carrom Clash",
+            "thumbnail": "https://www.microoyun.com/images/games/carrom-clash.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/carromclash1/gameCode/index.html"
+          },
+	  {
+            "category_name": "Multi Player",
+            "category_id": 4,
+            "name": "Billiards Classic",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/8BallBilliardsClassicTeaser.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/@famobi_api2/billiardsclassic1/gameCode/index.html"
+          },
           {
             "category_name": "Puzzle",
             "category_id": 5,
@@ -489,7 +505,7 @@
             "name": "Brain Trainer",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BrainTrainerTeaser.jpg?v=0.2-fa61e954",
             "rating": 4,
-            "game_url": "https://play.famobi.com/brain-trainer"
+            "game_url": "https://cdn.gamesnacks.com/braintrainer1/gameCode/index.html"
           },
           {
             "category_name": "Puzzle",
@@ -630,7 +646,7 @@
             "name": "Dunk Brush",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DunkBrushTeaser.jpg?v=0.2-fa61e954",
             "rating": 4,
-            "game_url": "https://play.famobi.com/dunk-brush"
+            "game_url": "https://cdn.gamesnacks.com/dunkbrush6/gameCode/index.html"
           },
           {
             "category_name": "Arcade",
@@ -873,6 +889,30 @@
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/36/25.jpg",
             "rating": 4,
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/36/"
+          },
+	  {
+            "category_name": "Sports",
+            "category_id": 11,
+            "name": "Basketball Master 2",
+            "thumbnail": "https://imgs2.dab3games.com/basketball-masters-game.png",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/basketballmaster4/gameCode/index.html"
+          },
+	  {
+            "category_name": "Sports",
+            "category_id": 11,
+            "name": "Freekick Football",
+            "thumbnail": "https://play-lh.googleusercontent.com/fX4QdbgqnyFKru0KtGUYwQVVo4Yo0xdkRfg1wvy6vUBYdiGOARaJcvOcLe2XDOyMoQ",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/freekickfootball1/gameCode/index.html"
+          },
+	  {
+            "category_name": "Sports",
+            "category_id": 11,
+            "name": "Table Tennis",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TableTennis_WorldTour_Teaser.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/tabletennis1/gameCode/index.html"
           },
 	  {
             "category_name": "Quiz & Brain Games",
