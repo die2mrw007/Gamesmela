@@ -531,6 +531,14 @@
             "rating": 4,
             "game_url": "https://cdn.gamesnacks.com/@famobi_api2/mahjongclassic1/gameCode/index.html"
           },
+	  {
+            "category_name": "Puzzle",
+            "category_id": 5,
+            "name": "99 Balls",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/99BallsTeaser.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/99balls3/gameCode/index.html"
+          },
           {
             "category_name": "Quiz & Brain Games",
             "category_id": 6,
@@ -570,6 +578,22 @@
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AnimalQuizChristmasTeaser.jpg?v=0.2-fa61e954",
             "rating": 4,
             "game_url": "https://play.famobi.com/animal-quiz"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Word Search",
+            "thumbnail": "https://image.winudf.com/v2/image1/Y29tLnB1enpsZTFzdHVkaW8uZ28ud29yZHNlYXJjaGluc3BpcmF0aW9uX2ljb25fMTU4MDk5MTAwMl8wNDQ/icon.png?w=&fakeurl=1",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/wordsearch1/gameCode/index.html"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Word Detector",
+            "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/WordDetectorTeaserB.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/@famobi_api2/worddetector1/gameCode/index.html"
           },
           {
             "category_name": "Jump & Run",
@@ -624,6 +648,30 @@
             "rating": 4,
             "game_url": "https://cdn.gamesnacks.com/omnomrun1/gameCode/index.html"
           },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Om Nom Connect Xmas",
+            "thumbnail": "https://imgs2.dab3games.com/om-nom-xmas455.png",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/omnomconnectxmas1/gameCode/index.html"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Tiger Run",
+            "thumbnail": "https://api.web.gamepix.com/assets/img/250/250/icon/tiger-run.png",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/tigerrun1/gameCode/index.html"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "T-Rex",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJfPnHk3QAdsCJ2XkYX6OMNzQyPtN3Mzo55RAJWLuCTvY9oiukvLWG8oNn5i7krtH9GWU&usqp=CAU",
+            "rating": 4,
+            "game_url": "https://livegame.show/games/trex_v3"
+          },
           {
             "category_name": "Arcade",
             "category_id": 9,
@@ -655,6 +703,14 @@
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PerfectPiano_Teaser.jpg?v=0.2-fa61e954",
             "rating": 4,
             "game_url": "https://play.famobi.com/perfect-piano"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Cake Slice Ninja",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOkcA0mYpAx87xjhr4RVT1V-Ry732_IBZJCQ&usqp=CAU",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/cakesliceupdate/gameCode/index.html"
           },
 	  {
             "category_name": "Shooting",
