@@ -508,6 +508,14 @@
             "rating": 4,
             "game_url": "https://cdn.gamesnacks.com/@famobi_api2/billiardsclassic1/gameCode/index.html"
           },
+	  {
+            "category_name": "Multi Player",
+            "category_id": 4,
+            "name": "Snake And Ladders",
+            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/snakesandladders.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/snakesandladders/gameCode/index.html"
+          },
           {
             "category_name": "Puzzle",
             "category_id": 5,
