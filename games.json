@@ -532,6 +532,14 @@
             "rating": 4,
             "game_url": "https://cdn.gamesnacks.com/braintrainer1/gameCode/index.html"
           },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Bolly Beat",
+            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/bollybeat.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/bollybeat1/gameCode/index.html"
+          },
           {
             "category_name": "Puzzle",
             "category_id": 5,
