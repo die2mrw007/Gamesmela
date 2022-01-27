@@ -90,6 +90,14 @@
             "rating": 4,
             "game_url": "https://play.famobi.com/high-hills"
           },
+	  {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Fullspeed Racing",
+            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/FullspeedRacing.png",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/fullspeedracing1/gameCode/index.html"
+          },
           {
             "category_name": "Racing",
             "category_id": 1,
@@ -133,6 +141,23 @@
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MotoFuryTeaser.jpg?v=0.2-fa61e954",
             "rating": 4,
             "game_url": "https://play.famobi.com/moto-fury"
+          },
+		
+	  {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Road Fury",
+            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/roadfury.png",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/roadfury1/gameCode/index.html"
+          },
+	  {
+            "category_name": "Racing",
+            "category_id": 1,
+            "name": "Scooter Xtreme",
+            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/scooter-xtreme-3d.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/scooterxtreme1/gameCode/index.html"
           },
 
           {
@@ -521,7 +546,7 @@
             "name": "Mahjong 3D",
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/Mahjong3dTeaser.jpg?v=0.2-fa61e954",
             "rating": 4,
-            "game_url": "https://play.famobi.com/mahjong-3d"
+            "game_url": "https://cdn.gamesnacks.com/@famobi_api2/mahjong3d5/gameCode/index.html"
           },
 	  {
             "category_name": "Puzzle",
@@ -687,6 +712,14 @@
             "thumbnail": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CannonBalls3dTeaser.jpg?v=0.2-fa61e954",
             "rating": 4,
             "game_url": "https://cdn.gamesnacks.com/@famobi_api2/cannonballs3d4/gameCode/index.html"
+          },
+	  {
+            "category_name": "Arcade",
+            "category_id": 9,
+            "name": "Rocket Road",
+            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/RocketRoad.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/aktestrocketroad1/gameCode/index.html"
           },
           {
             "category_name": "Arcade",
@@ -1081,6 +1114,14 @@
             "thumbnail": "https://huda.jpmaurya.com/games/Games-by-Nitesh/50/8.jpg",
             "rating": 4,
             "game_url": "https://huda.jpmaurya.com/games/Games-by-Nitesh/50/"
+          },
+	  {
+            "category_name": "Quiz & Brain Games",
+            "category_id": 6,
+            "name": "Roll This Ball 3",
+            "thumbnail": "https://huda.jpmaurya.com/games/thumbnails/Roll-This-Ball.jpg",
+            "rating": 4,
+            "game_url": "https://cdn.gamesnacks.com/rollthisball3/gameCode/index.html"
           },
 	  {
             "category_name": "Shooting",
